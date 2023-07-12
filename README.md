@@ -1,4 +1,4 @@
-# fairness-and-accuracy-on-default-credit-risk
+# Home-Credit-Default-Risk-Analysis
 
 
 This is the link to the kaggle competition: https://www.kaggle.com/competitions/home-credit-default-risk 

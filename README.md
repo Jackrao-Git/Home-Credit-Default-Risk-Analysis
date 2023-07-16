@@ -1,4 +1,3 @@
-<img width="870" alt="Screen Shot 2023-07-16 at 4 39 37 PM" src="https://github.com/Jackrao-Git/Home-Credit-Default-Risk-Analysis/assets/108682585/b7b8ac47-9f80-4bff-a9d6-9f37a45b6e76">
 # Home-Credit-Default-Risk-Analysis
 
 
